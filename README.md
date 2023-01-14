@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a 20 year-old frontend developer with a strong passion for developing websites with great user experiences 🤝<br><br>I currently work on designing and developing professional websites ⚡<br>
+Hi! I'm a 20 year-old fullstack developer with a strong passion for developing web applications with great user experiences 🤝<br><br>I currently work on designing and developing professional websites ⚡<br>
 
 
 ## 🌐 Socials:
