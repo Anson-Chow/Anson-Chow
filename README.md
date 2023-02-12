@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a 20 year-old fullstack developer with a strong passion for developing applications with great user experiences 🤝<br><br>I currently work on designing and developing professional websites ⚡<br>
+Hi! I'm a fullstack developer with a strong passion for developing applications with great user experiences 🤝<br><br>I currently work on developing MERN applications  ⚡<br>
 
 
 ## 🌐 Socials:
