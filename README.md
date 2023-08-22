@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a fullstack developer with a strong passion for developing applications with great user experiences 🤝<br>I currently work on developing MERN applications ⚡
+Hi! I'm a fullstack developer with a strong passion for developing applications with great user experiences 🤝<br>I currently work on developing full stack applications ⚡
 
 
 ## 🌐 Socials:
